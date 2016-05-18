@@ -1,6 +1,6 @@
 {
   "name": "Cartrolandofc",
   "tagline": "CartrolandoFC é um site para consultar os pontos parciais do seu time no CartolaFC ",
-  "body": "# CartrolandoFC\r\nCartrolandoFC é um site para consultar os pontos parciais do seu time no Cartola FC.\r\n\r\nhttps://cartolafc-wgenial.rhcloud.com\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen1.png)\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen2.png)\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen3.png)\r\n\r\nSe você quiser contribuir com melhorias é só fazer um fork do projeto e enviar um pull request.\r\n\r\nDúvidas podem ser enviadas [por aqui](https://github.com/wgenial/cartrolandofc/issues).\r\n",
+  "body": "# CartrolandoFC\r\n\r\nhttps://cartolafc-wgenial.rhcloud.com\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen1.png)\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen2.png)\r\n\r\n![](https://raw.github.com/wgenial/cartrolandofc/master/images/site/screen3.png)\r\n\r\n## Wiki\r\n[https://github.com/wgenial/cartrolandofc/wiki](https://github.com/wgenial/cartrolandofc/wiki)\r\n\r\n## Contribua\r\nSe você tiver alguma informação, melhoria ou sugestão, faça um fork do projeto e envie um pull request.\r\n\r\nCaso tenha dúvidas envie [aqui](https://github.com/wgenial/cartrolandofc/issues).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
